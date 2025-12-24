@@ -1,9 +1,6 @@
-<h2 align="left">Hi 👋! My name is Ninian and from The Netherlands</h2>
-
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NLlemain&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NLlemain&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 <a href="https://www.codewars.com/users/NLlemain" target="_blank">
@@ -47,16 +44,4 @@
 
 ###
 
-<h3 align="center">Your my</h3>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/NLlemain/count.svg?"  />
-</div>
-
-###
-
-<h3 align="center">visit</h3>
-
-###
